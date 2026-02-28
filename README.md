@@ -40,3 +40,13 @@ Each sub-project includes code, documentation, dataset references, and visuals t
 
 **Acknowledgments:**  
 Special thanks to the open-source community and dataset providers for enabling experimentation with GAN architectures.
+
+---
+
+**Pankaj Somkuwar** - AI Engineer / AI Product Manager / AI Solutions Architect
+
+- LinkedIn: [Pankaj Somkuwar](https://www.linkedin.com/in/pankaj-somkuwar/)
+- GitHub: [@Pankaj-Leo](https://github.com/Pankaj-Leo)
+- Website: [Pankaj Somkuwar](https://www.pankajsomkuwarai.com)
+- Email: [pankaj.som1610@gmail.com](mailto:pankaj.som1610@gmail.com)
+
