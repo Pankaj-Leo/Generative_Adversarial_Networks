@@ -24,6 +24,16 @@ Each sub-project includes code, documentation, dataset references, and visuals t
 
 ----
 
+## Conditional vs unconditional GANs (contract difference)
+
+| Type | G input | What D judges | Primary risk |
+|---|---|---|---|
+| Unconditional (GAN/DCGAN/StyleGAN2) | noise / latent | realism only | collapse vs diversity |
+| Conditional paired (Pix2Pix) | source image | (source, output) consistency | alignment artifacts |
+| Text-conditioned (StackGAN) | text embedding | realism + condition match | text-image mismatch |
+
+----
+
 ## System Design
 
 ![](gan_system_design.png)
